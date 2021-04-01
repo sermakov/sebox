@@ -2,7 +2,7 @@
 
 by Sergey Ermakov
 
-There are my nice projects and some inspirational piecies. Anyway, you are welcome.
+Here are my cute projects and some inspirational piecies. Anyway, you are welcome.
 
 ## current projects
 
